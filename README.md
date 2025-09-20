@@ -1,3 +1,3 @@
 # StrandPriceScraper
 
-Example of a price scraping script used to gather pricing information from retailers.
+Price scraper script created for Found Books using the Selenium WebDriver library to automate web browsing.
